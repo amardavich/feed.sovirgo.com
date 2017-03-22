@@ -1,0 +1,47 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0">
+  <channel>
+
+    <link>https://sovirgo.com</link>
+    <title>So Virgo</title>
+    <description>So Virgo is a show for virgos about virgos.</description>
+
+    <language>en-us</language>
+    <copyright>Copyright © 2017 So Virgo. All rights reserved.</copyright>
+    <managingEditor>podcast@sovirgo.com (Audrey Mardavich)</managingEditor>
+    <webMaster>podcast@sovirgo.com (Audrey Mardavich)</webMaster>
+    <pubDate>Tue, 17 May 2016 19:06:22 +0000</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 19:06:22 +0000</lastBuildDate>
+    
+    <!-- image -->
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link href="https://feed.sovirgo.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <generator>Jekyll v3.0.5</generator>
+
+    <itunes:author>Annie Rebekah Gardner and Audrey Rose Mardavich</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:email>podcast@sovirgo.com</itunes:email>
+      <itunes:name>Audrey Mardavich</itunes:name>
+    </itunes:owner>
+    <itunes:subtitle>A show for virgos.</itunes:subtitle>
+    <itunes:summary>So Virgo is a show for virgos about virgos.</itunes:summary>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:image href="https://media.dogtalk.bailey.dog/images/iTunes/3000.png" />
+    <!-- <itunes:new-feed-url></itunes:new-feed-url> -->
+
+
+    
+      
+    
+  </channel>
+</rss>
