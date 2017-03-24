@@ -22,7 +22,7 @@
     
     <!-- image -->
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <atom:link href="https://feed.sovirgo.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://podcast.sovirgo.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     <generator>Jekyll v3.0.5</generator>
 
@@ -35,7 +35,7 @@
     <itunes:subtitle>A show for virgos.</itunes:subtitle>
     <itunes:summary>So Virgo is a show for virgos about virgos.</itunes:summary>
     <itunes:category text="Society &amp; Culture" />
-    <itunes:image href="https://media.dogtalk.bailey.dog/images/iTunes/3000.png" />
+    <itunes:image href="https://media.sovirgo.party/images/iTunes/3000.png" />
     <!-- <itunes:new-feed-url></itunes:new-feed-url> -->
 
 
